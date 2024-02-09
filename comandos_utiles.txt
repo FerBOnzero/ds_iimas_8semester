@@ -1,0 +1,2 @@
+To clear bash history, you can use the 
+    - history -c command
